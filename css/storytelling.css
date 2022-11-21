@@ -1,0 +1,26 @@
+body {
+    background-color: #EFEFEF;
+}
+
+#container {
+    /* display: flex;
+    position: relative; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#background {
+    max-width: 100%;
+    margin: auto;
+}
+
+#title {
+    background-color: aqua;
+    position: absolute;
+    color: #EFEFEF;
+    font-family: Montserrat;
+    font-size: 2rem;
+    top:20%;
+    align-self: center;
+}
